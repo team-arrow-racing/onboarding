@@ -6,7 +6,7 @@ New to TeamArrow? Start here.
 
 Here is a list of software you should install to get started with firmware development:
 
-- [Visual Studio Code](https://code.visualstudio.com/) or [Zed](https://zed.dev/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [Rust](https://www.rust-lang.org/learn/get-started)
 
 ### Rust Tools
