@@ -9,13 +9,9 @@ Here is a list of software you should install to get started with firmware devel
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Rust](https://www.rust-lang.org/learn/get-started)
 
-### Rust Tools
+### Firmware Development Environment Setup
 
-Once you've installed Rust and have Cargo, you'll want to install these tools
-
-```shell
-cargo install probe-rs cargo-embed cargo-flash
-```
+- [Click here](https://github.com/team-arrow-racing/onboarding/blob/main/rust_setup.md) for preparing your development environment.
 
 ## Learning
 
