@@ -22,6 +22,7 @@ Online:
 - [Comprehensive Rust](https://google.github.io/comprehensive-rust/)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [RTIC (Real-Time Interrupt-driven Concurrency](https://rtic.rs/2/book/en/)
+- [CAN Bus Explained - A Simple Intro](https://www.csselectronics.com/pages/can-bus-simple-intro-tutorial)
 
 Books:
 
